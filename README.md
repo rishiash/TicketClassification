@@ -23,7 +23,7 @@
 - Raw data was cleaned up and converted into TF-IDF features.
 - Topic Modelling was done using Non-Negative Matrix Factorization (NMF)
 - Used Logistic Regression, Decision Tree and Random Forest. Logistic Regression seems to be performing the best.
-- 
+
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
